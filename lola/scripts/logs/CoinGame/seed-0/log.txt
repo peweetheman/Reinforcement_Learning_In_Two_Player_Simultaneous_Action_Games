@@ -1,0 +1,1 @@
+Logging to logs/CoinGame/seed-0
