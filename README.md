@@ -1,4 +1,6 @@
 # Meta-NASH and BRAT agents
+View the paper: https://patrickphillips.page/pdfs/RL_meets_Nash_Eq.pdf
+
 # Patrick Phillips
 
 Run
